@@ -1,11 +1,13 @@
 {
-	
-	"name": "fcc-learn-npm-package-json",
-	"version": "0.0.1",
-	"description": "A simple Node app",
 	"author": "Chad Mooney",
+	"name": "fcc-learn-npm-package-json",
+	"description": "a cool project in progress",
+	"keywords": ["freecodecamp", "npm"],
+	"license": "MIT",
+	"version": "1.2",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment":"~2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,7 +17,7 @@
 		"node": "8.11.2"
 	},
 	"repository": {
-		"type": "git",todo.git
-		"url": "https://github.com/trikyas/boilerplate-npm"
+		"type": "git",
+		"url": "https://idontknow/todo.git"
 	}
 }
